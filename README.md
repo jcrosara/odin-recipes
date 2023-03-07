@@ -1,1 +1,2 @@
 # odin-recipes
+my first project will be to make a brutalist website for odin with basic HTML and git knowledge. by the end i will have shown i can do the most elementary of tasks showcasing my basic ability to follow instruction learning the ropes of coding.
